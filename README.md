@@ -13,26 +13,6 @@ This project is a web application that provides real-time weather updates for an
 
 - **Frontend**: HTML, CSS, JAVASCRIPT
 - **API**: [OpenWeatherMap](https://openweathermap.org/)
-- **Icons**: [Fontawesome](https://fontawesome.com/)
-
-### Additional information 
-
-- **To get name of the location (city name or area name) by using longitude and latitude** :- 
-https://openweathermap.org/api/geocoding-api
-
-- **To get current location weather** :- 
-https://openweathermap.org/current
-
-- **To get 5 day forecast** :-  https://openweathermap.org/forecast5
-
-## Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-
-- A modern web browser.
-- An API key from [OpenWeatherMap Api](https://home.openweathermap.org/api_keys)
 
 
 ### Usage
